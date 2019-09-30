@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;} 
+.Block{
+    position: relative;
+    border-left: 4px solid #074AB5;
+}
+.Circle{
+    position: absolute;
+    top: -16px;
+    left: -11px;
+}
+.ul-footer li{
+    margin-left: 40px;
+    font-size: 14px;
+    color: #6c757d;
+}
